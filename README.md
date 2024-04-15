@@ -1,6 +1,8 @@
 # SGHN-WP19
 This repository contains a multivariate dataset of wave energy measurements that can be used for predictive modeling and analysis. The dataset is suitable for researchers, data scientists, and enthusiasts interested in studying wave energy patterns, developing predictive models, or exploring renewable energy sources.
 
+![image](doc/main%20fig.png)
+
 # Overview
 Wave energy refers to the kinetic energy carried by ocean waves, which can be harnessed and converted into electricity through various technologies. Understanding wave energy patterns is crucial for the efficient design and operation of wave energy converters (WECs) and for assessing the feasibility of wave energy projects.
 
